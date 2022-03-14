@@ -1,0 +1,12 @@
+body{
+    background-color:#74C9F7;
+}
+
+#home {
+    background-image: url("picture.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+    
